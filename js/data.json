@@ -1,0 +1,72 @@
+[
+  {
+    "img": "/img/img1.jpeg",
+    "title": "Гишүүдийг яллагдагчаар татсан үндэслэлээ танилцуулж байна",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt",
+    "type": "gov",
+    "date": "04.26.2022"
+  },
+  {
+    "img": "/img/img2.jpeg",
+    "title": "ТӨСВӨӨ ТОДОТГОХГҮЙ БОЛ ҮНИЙН ӨСӨЛТ, ДОЛЛАРЫН ХАНШИЙГ БАРЬЖ ЧАДАХГҮЙ",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt",
+    "type": "gov",
+    "date": "04.25.2022"
+  },
+  {
+    "img": "/img/img3.jpeg",
+    "title": "33 тэрбумын хохирол учруулсан гэж яллагдагчаар татсан",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt",
+    "type": "gov",
+    "date": "04.24.2022"
+  },
+  {
+    "img": "/img/img4.jpeg",
+    "title": "Есөн жилийн өмнөх хэргээр яллагдагчаар татсанд гайхлаа",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "gov",
+    "date": ""
+  },
+  {
+    "img": "/img/img5.jpeg",
+    "title": "Б.Буджаргал Нью-Йоркт болсон гүйлтийн тэмцээнд түрүүлжээ",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "sport",
+    "date": "04.23.2022"
+  },
+  {
+    "img": "/img/img6.jpeg",
+    "title": "Монголын сагсан бөмбөгийн лигийн тамирчдын цалин хэд вэ?",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "sport",
+    "date": "04.22.2022"
+  },
+  {
+    "img": "/img/img7.jpeg",
+    "title": "21 жилийн дараах Азийн аварга ба алтан медальгүй Монгол",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "sport",
+    "date": "04.21.2022"
+  },
+  {
+    "img": "/img/img8.jpeg",
+    "title": "“Вертекс майнинг партнер улсад их хэмжээний хохирол учруулаагүй”",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "social",
+    "date": "04.20.2022"
+  },
+  {
+    "img": "/img/img9.jpeg",
+    "title": "Үндсэн хуулийн цэцийн дунд суудлын хуралдаан болно",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "social",
+    "date": "04.19.2022"
+  },
+  {
+    "img": "/img/img10.jpeg",
+    "title": "Улаанбаатарт 18 градус дулаан байна",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "type": "social",
+    "date": "04.18.2022"
+  }
+]
